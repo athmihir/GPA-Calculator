@@ -1,0 +1,77 @@
+Semester,Subject,Total Credits,Grade
+1,Engineering Mathematics 1,5,O
+1,Engineering Physics,5,O
+1,Fundamentals of Prog Languages 1,2,A+
+1,Basic Electronics Engineering,4,O
+1,Basic Civil and Environment Engineering,4,O
+1,Engineering Graphics 1,4,O
+1,Workshop Practices,1,O
+2,Engineering Mathematics 2,4,O
+2,Engineering Chemistry,5,O
+2,Fundamentals of Prog Languages 2,2,A+
+2,Engineering Mechanics,5,O
+2,Basic Electrical Engg,4,O
+2,Basic Mechanical Engg,4,O
+2,Engineering Graphics 2,1,O
+3,Discrete Mathematics,4,O
+3,Digital Electronics & Logic Design,4,A+
+3,Data Structures and Algorithms,4,A+
+3,Comp Organization & Arch,4,A+
+3,Object Oriented Programming,4,O
+3,Digital Electronics Lab,1,O
+3,Data Structures Lab,2,O
+3,Object Oriented Progr Lab,1,O
+3,Soft Skills,1,O
+3,Foreign Language German,0,P
+4,Engineering Mathematics 3 TH,4,O
+4,Engineering Mathematics 3 TW,1,O
+4,Computer Graphics,4,A+
+4,Advanced Data Structures,4,O
+4,Microprocessor,4,A+
+4,Principles of Prog Languages,3,O
+4,Computer Graphics Lab,1,O
+4,Advanced Data Structures Lab,2,O
+4,Microprocessors Lab,2,O
+4,The Science of Happiness,0,P
+5,Theory of Computation,3,O
+5,Database Management Systems,3,O
+5,SW Engg & Project Management,3,O
+5,Info systems and engg economics,3,O
+5,Computer Networks,4,O
+5,Skills Development Lab TW,2,O
+5,Skills Development Lab OR,2,O
+5,DBMS Lab,2,O
+5,CN Lab,1,O
+5,Cyber Security,0,P
+6,Design & analysis of Algo,4,O
+6,Sys prog & OS,4,O
+6,Embed Sys & IOT,4,O
+6,Software Modeling and Design,3,O
+6,Web Technology,3,O
+6,Seminar and Technical Comm,1,O
+6,Web Technology Lab,1,O
+6,SP & OS Lab TW,1,O
+6,SP & OS Lab PR,1,O
+6,ES & IOT LAb,1,O
+6,Leadersip & Personality Dev,0,P
+7,High Performance Computing,4,O
+7,Artificial Intel & Robotics,3,O
+7,Data Analytics,3,O
+7,Data Mining and Warehousing,3,O
+7,SW Testing and QA,3,O
+7,Lab Practics 1 TW,1,O
+7,Lab Practics 1 PR,1,O
+7,Lab Practice 2 TW,1,O
+7,Lab Practice 2 OR,1,O
+7,Project Work Stage 1,2,O
+8,Machine Learning,3,O
+8,Information & Cyber Sec,3,A
+8,Soft Computing And Optim. Algo,3,A
+8,Human Computer Interface,3,O
+8,Lab Practice 3 TW,1,O
+8,Lab Practive 3 PR,1,O
+8,Lab Practice 4 TW,1,O
+8,Lab Practice 4 OR,1,O
+8,Project Work Stage 2 TW,4,O
+8,Project Work Stage2 OR,2,O
+8,Business Intelligence,0,P
